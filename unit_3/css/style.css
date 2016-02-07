@@ -1,8 +1,20 @@
-@@ -1,7 +0,0 @@
-body {
-    background-color: aquamarine;
+div {
+	width: 150px;
+	height: 150px;
+	border: 2px solid black;
+	display: inline-block;
+	margin: 20px;
 }
 
-h1, p {
-    color: coral;
+#name {
+	background: src("images/purple butterfly.jpg");
+	background-size: cover;
+}
+
+hr {
+	width: 200px;
+}
+
+p {
+	font-size: 24px;
 }
